@@ -49,3 +49,13 @@ li {
 .search-form {
   margin-bottom: 15px;
 }
+
+.link {
+  color: rgb(188, 134, 238);
+  font-size: 16px;
+}
+
+.creator {
+  font-size: 18px;
+  text-align: center;
+}
